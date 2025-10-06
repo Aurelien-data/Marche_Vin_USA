@@ -2,16 +2,16 @@
 
 ## 🎯Objectif du projet:
 
-Ce Dashboard a été conçu pour fournir une **vision stratégique du marché du vin am&ricain**, à travers:
+Ce Dashboard a été conçu pour fournir une **vision stratégique du marché du vin americain**, à travers:
 - Les volumes de vente par segment
 - L'évolution du Chiffre d'Affaires par canal
 - L'impact des tendances (premiumisation, digitalisation)
 
 ## 🧠Enjeux métier
 
-Le but de ce projet est **d'aider les acteurs de la filière vin**à:
-- Identifier les **segments porteurs**(prmieulm, sparkling, etc...)
-- Comprendre les canaux lmes polus dynamiques (e-commerce vs retail)
+Le but de ce projet est **d'aider les acteurs de la filière vin** à:
+- Identifier les **segments porteurs** (premium, sparkling, etc...)
+- Comprendre les canaux les plus dynamiques (e-commerce vs retail)
 - Suivre l'évolution de la **consommation et des comportements clients**
 - Adapter leur stratégie commerciale à un marché en mutation
 
